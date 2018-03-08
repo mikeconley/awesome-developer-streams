@@ -65,7 +65,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
-- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 
 ## Developers That Stream
 
@@ -496,12 +496,16 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
 
-### Brian McKenna
-#### What Brian Streams
-- Haskell, Functional Programming
+### Mike Conley
+#### What Mike Streams
+- Firefox Development, JavaScript, C++, CSS, Rust
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/puffnfresh)
+- [Twitch](https://www.twitch.tv/mikeconley_dot_ca)
+- [Facebook](https://www.facebook.com/TheJoyOfCoding1/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Air Mozilla](https://air.mozilla.org/channels/livehacking/)
 #### Links:
-- [Twitter](https://twitter.com/puffnfresh)
-- [GitHub](https://github.com/puffnfresh)
-- [Website](https://brianmckenna.org)
+- [Twitter](http://twitter.com/mike_conley)
+- [GitHub](http://github.com/mikeconley/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Website](https://www.mikeconley.ca/blog)
